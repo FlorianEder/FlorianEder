@@ -5,10 +5,10 @@ Student at Deggendorf Institute of Technology
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/florian-eder-9028b6239/) ![](https://komarev.com/ghpvc/?username=FlorianEder&color=brightgreen) 
 
-## A game I'm currently working on
+## 🎮 A game I'm currently working on
 [Play](https://florianeder.github.io/)
 
-## Other Projects i contributed to
+## 🤝 Other Projects i contributed to
 [Style Transfer Webshop](https://github.com/THDMoritzEnderle/Style-Transfert-Webshop)\
 [Chefkoch API](https://github.com/THDMoritzEnderle/chefkoch)\
 [Chefkoch Chatbot](https://github.com/THDMoritzEnderle/chefbot)\
