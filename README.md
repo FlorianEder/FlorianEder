@@ -1,8 +1,5 @@
 # 💫 About Me:
-Student at Deggendorf Institute of Technology
-
-
-## 🌐 Socials:
+Student at Deggendorf Institute of Technology\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/florian-eder-9028b6239/) ![](https://komarev.com/ghpvc/?username=FlorianEder&color=brightgreen) 
 
 ## 🎮 A game I'm currently working on
