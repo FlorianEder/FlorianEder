@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Deggendorf Institute of Technology\
+Student at Johannes Kepler University in Linz\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/florian-eder-9028b6239/) ![](https://komarev.com/ghpvc/?username=FlorianEder&color=brightgreen) 
 
 ## 🎮 A game I'm ~~currently~~ sometimes working on
